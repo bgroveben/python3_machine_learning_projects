@@ -12,4 +12,4 @@ ISBN 978-1-449-36941-5
 The authors were kind enough to put the code for the book in [this Github repository](https://github.com/amueller/introduction_to_ml_with_python).
 
 I am here:
-Chapter 1: Introduction -- A First Application: Classifying Iris Species
+Chapter 1: Introduction -- Measuring Success: Training and Testing Data

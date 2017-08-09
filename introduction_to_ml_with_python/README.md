@@ -12,7 +12,7 @@ ISBN 978-1-449-36941-5
 The authors were kind enough to put the code for the book in [this Github repository](https://github.com/amueller/introduction_to_ml_with_python).
 
 I am here:
-Chapter 2: Supervised Learning -- Linear Models -- Lasso
+Chapter 2: Supervised Learning -- Linear Models -- Linear models for classification
 
 [Another exercise with the iris dataset.](https://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)  
 

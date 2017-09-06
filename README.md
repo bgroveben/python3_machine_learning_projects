@@ -1,4 +1,4 @@
-# Introduction to generative adversarial networks
+# Introduction to Generative Adversarial Networks  
 
 This repository contains code to accompany [the O'Reilly tutorial on generative adversarial networks](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners) written by [Jon Bruner](https://github.com/jonbruner) and [Adit Deshpande](https://github.com/adeshpande3). See [the original tutorial](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners) to run this code in a pre-built environment on O'Reilly's servers with cell-by-cell guidance, or run these files on your own machine.
 

@@ -11,3 +11,4 @@ I know, another deep learning library, but the rest have been fun and interestin
 * [MXNet Tutorials](http://mxnet.incubator.apache.org/tutorials/index.html) and [Tutorials on Github](https://github.com/apache/incubator-mxnet/blob/master/docs/tutorials/index.md)
 * [MXNet Architecture](http://mxnet.incubator.apache.org/architecture/index.html)  
 * [Jupyter Notebooks for MXNet](https://github.com/jbnunn/MXNet-Notebooks)
+* [Video -- Apache MXNet with Python](https://www.youtube.com/watch?v=kINQpQiee7g&t=650s&index=13&list=WL)

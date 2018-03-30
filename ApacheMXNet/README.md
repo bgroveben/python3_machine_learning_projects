@@ -2,7 +2,7 @@
 
 I know, another deep learning library, but the rest have been fun and interesting so far, so why not?  
 
-### [Next up -- Linear algebra](http://gluon.mxnet.io/chapter01_crashcourse/linear-algebra.html)  
+### [Next up -- probabilty and statistics](http://gluon.mxnet.io/chapter01_crashcourse/probability.html#Sampling)  
 
 ### References, tutorials, docs, and so forth:
 * [Deep Learning - The Straight Dope](http://gluon.mxnet.io/index.html)

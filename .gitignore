@@ -1,6 +1,8 @@
-<<<<<<< HEAD
+# Large data files need to be left out of version control:
+flight_delays_data
+
 .ipynb_checkpoints/
-=======
+
 # Mac desktop storage
 .DS_Store
 
@@ -106,5 +108,4 @@ ENV/
 .mypy_cache/
 
 # Tensorflow
->>>>>>> fbaa27614c55ef61b7ec34e5476ccaa270c2278d
 tensorboard/

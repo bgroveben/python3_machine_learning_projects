@@ -2,7 +2,7 @@
 
 I know, another deep learning library, but the rest have been fun and interesting so far, so why not?  
 
-### [Next up -- probabilty and statistics](http://gluon.mxnet.io/chapter01_crashcourse/probability.html#Sampling)  
+### [Next up -- Automatic differentiation with autograd](http://gluon.mxnet.io/chapter01_crashcourse/autograd.html)  
 
 ### References, tutorials, docs, and so forth:
 * [Deep Learning - The Straight Dope](http://gluon.mxnet.io/index.html)

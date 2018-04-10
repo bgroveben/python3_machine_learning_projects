@@ -2,7 +2,7 @@
 
 I know, another deep learning library, but the rest have been fun and interesting so far, so why not?  
 
-### [Next up -- Automatic differentiation with autograd](http://gluon.mxnet.io/chapter01_crashcourse/autograd.html)  
+### [Next up -- Linear Regression from scratch](http://gluon.mxnet.io/chapter02_supervised-learning/linear-regression-scratch.html)
 
 ### References, tutorials, docs, and so forth:
 * [Deep Learning - The Straight Dope](http://gluon.mxnet.io/index.html)

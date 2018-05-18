@@ -109,3 +109,11 @@ ENV/
 
 # Tensorflow
 tensorboard/
+
+# Datasets
+*.zip
+*.csv
+*.xls
+*.xlsx
+train
+test

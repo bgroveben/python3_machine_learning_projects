@@ -2,7 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
 
-def load_my_image(fname = '/kaggle/input/dog-breed-identification/train/0246f44bb123ce3f91c939861eb97fb7.jpg'):
+# def load_my_image(fname = '/kaggle/input/dog-breed-identification/train/0246f44bb123ce3f91c939861eb97fb7.jpg'):
+def load_my_image(fname = 'data/dog_breed/train/0246f44bb123ce3f91c939861eb97fb7.jpg'):
+
     '''returns array containing greyscale values for supplied file (at thumbnail size)'''
     image_color = Image.open(fname).resize((90, 125), Image.ANTIALIAS)
     image_grayscale = image_color.convert('L')

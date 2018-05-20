@@ -1,5 +1,6 @@
 # Large data files need to be left out of version control:
 flight_delays_data
+*.h5
 
 .ipynb_checkpoints/
 

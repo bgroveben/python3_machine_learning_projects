@@ -2,5 +2,4 @@
 
 ## Hands on Data Science   
 
-### [Deep Learning Track](https://www.kaggle.com/learn/deep-learning)
-  
+### [Pandas Track](https://www.kaggle.com/learn/pandas)

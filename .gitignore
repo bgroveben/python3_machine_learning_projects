@@ -120,6 +120,7 @@ train
 test
 val
 inputs
+ml-100k
 
 # Kaggle's learntools modules:
 learntools
